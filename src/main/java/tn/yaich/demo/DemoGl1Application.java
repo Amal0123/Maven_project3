@@ -18,7 +18,7 @@ public class DemoGl1Application {
 	
 	@GetMapping
 	public String getMessage() {
-		return "Hello Jenkins";
+		return "Hello from version 2";
 	}
 
 }
