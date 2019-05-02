@@ -18,7 +18,7 @@ public class DemoGl1Application {
 	
 	@GetMapping
 	public String getMessage() {
-		return "Hello from version 3 ! ";
+		return "Hello from 03/05 ! ";
 	}
 
 }
